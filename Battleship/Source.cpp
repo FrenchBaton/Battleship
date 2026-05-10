@@ -1,7 +1,9 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+#include "func_logic.h"
 
+int main() {
+	startGame();
 	return 0;
 }
