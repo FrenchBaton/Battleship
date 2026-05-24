@@ -1,2 +1,5 @@
-#pragma once
-// структуры
+struct Position {
+	int row;
+	int col;
+	bool horizontal;
+};
